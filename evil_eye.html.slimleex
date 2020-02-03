@@ -1,0 +1,9 @@
+#evil-eye
+  span.fa-stack.fa-lg
+    i#evil-eye-backdrop1.fas.fa-eye-evil.fa-stack-2x[data-fa-transform="rotate-180"]
+    i.fas.fa-circle.fa-stack-1x
+    i#evil-eye-backdrop2.fas.fa-eye-evil.fa-stack-2x[data-fa-transform="rotate-180"]
+    i.fas.fa-circle.fa-stack-1x
+    i#eye-white.eye.fas.fa-circle.fa-stack-1x
+    i.fad.fa-eye-evil.fa-stack-2x
+    i#eyelid.fas.fa-circle.fa-stack-1x
