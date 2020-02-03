@@ -1,0 +1,1 @@
+#evil-eye-animation[phx-hook="EvilEyeAnimation" data-rotation1="#{@random_degree1}" data-rotation2="#{@random_degree2}" data-blinking="#{@blinking}"]
